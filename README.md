@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sander
-I'm an IT-Student and learning code day by day.
+<h1>👋 Hi, I’m Sander</h1>
+<p>I'm an IT-Student and learning code day by day.<p>
 
 
 <!---
